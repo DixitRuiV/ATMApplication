@@ -1,0 +1,14 @@
+C:\Users\rennu\source\repos\ATMApplication\ATMApplication\bin\Debug\net8.0\ATMApplication.exe
+C:\Users\rennu\source\repos\ATMApplication\ATMApplication\bin\Debug\net8.0\ATMApplication.deps.json
+C:\Users\rennu\source\repos\ATMApplication\ATMApplication\bin\Debug\net8.0\ATMApplication.runtimeconfig.json
+C:\Users\rennu\source\repos\ATMApplication\ATMApplication\bin\Debug\net8.0\ATMApplication.dll
+C:\Users\rennu\source\repos\ATMApplication\ATMApplication\bin\Debug\net8.0\ATMApplication.pdb
+C:\Users\rennu\source\repos\ATMApplication\ATMApplication\obj\Debug\net8.0\ATMApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rennu\source\repos\ATMApplication\ATMApplication\obj\Debug\net8.0\ATMApplication.AssemblyInfoInputs.cache
+C:\Users\rennu\source\repos\ATMApplication\ATMApplication\obj\Debug\net8.0\ATMApplication.AssemblyInfo.cs
+C:\Users\rennu\source\repos\ATMApplication\ATMApplication\obj\Debug\net8.0\ATMApplication.csproj.CoreCompileInputs.cache
+C:\Users\rennu\source\repos\ATMApplication\ATMApplication\obj\Debug\net8.0\ATMApplication.dll
+C:\Users\rennu\source\repos\ATMApplication\ATMApplication\obj\Debug\net8.0\refint\ATMApplication.dll
+C:\Users\rennu\source\repos\ATMApplication\ATMApplication\obj\Debug\net8.0\ATMApplication.pdb
+C:\Users\rennu\source\repos\ATMApplication\ATMApplication\obj\Debug\net8.0\ATMApplication.genruntimeconfig.cache
+C:\Users\rennu\source\repos\ATMApplication\ATMApplication\obj\Debug\net8.0\ref\ATMApplication.dll
